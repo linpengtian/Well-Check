@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>263334942601-3e9s0lc7hl4hm2fu32udcht9uqorqeab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.263334942601-3e9s0lc7hl4hm2fu32udcht9uqorqeab</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNfo5Esc6vB1CG8S9-h-MlbhyyOAAhPIU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>263334942601</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wellcheck</string>
+	<key>PROJECT_ID</key>
+	<string>wellcheck-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wellcheck-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:263334942601:ios:80ab415337ece9b716f358</string>
+</dict>
+</plist>
